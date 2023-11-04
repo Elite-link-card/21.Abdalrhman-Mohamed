@@ -2977,7 +2977,7 @@ justify-content: center;
     }
    
  button {
-  color: #F1E7D9;
+  color: #C19F49;
   padding: 12px 8px;
   margin: 20px 0;
   position: sticky;
@@ -3005,7 +3005,7 @@ justify-content: center;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #a3a1a150;
+  background-color: #C19F49;
   pointer-events: all;
   transition: all 300ms ease-out;
 }
@@ -3018,14 +3018,14 @@ justify-content: center;
 .share-contact-container h2 {
   margin: 0 0 20px 0;
   padding: 10px 30px;
-  color: #F1E7D9;
-  border-bottom: #F1E7D9;
+  color: #C19F49;
+  border-bottom: #C19F49;
 }
 
 .share-contact-container input {
   border: none;
   border-bottom: #000 solid;
-  background-color: #F1E7D9;
+  background-color: #C19F49;
   color: black;
   font-weight: bold;
   border-radius: 1%;
@@ -3052,7 +3052,7 @@ justify-content: center;
 
 #share-button {
   background-color: #a3a1a150;
-  color: #F1E7D9;
+  color: #C19F49;
   font-size: 25px;
 }
 
@@ -3065,7 +3065,7 @@ justify-content: center;
   top: 0;
   bottom: 0;
   right: 0;
-  color: #F1E7D9;
+  color: #C19F49;
   font-size: 50px;
   /* box-shadow: 0 0 10px black; */
   transform: translateX(150px);
