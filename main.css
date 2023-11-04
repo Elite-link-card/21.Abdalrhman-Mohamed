@@ -2479,7 +2479,7 @@ to {top: 75px;}
   object-position:  center;
 }
 .logo5-picture {
-  transform: translateY(-475%) translateX(200%);
+  transform: translateY(-450%) translateX(200%);
   margin-top:-75% ;
   position:relative;
   animation-name:PHOTO;
